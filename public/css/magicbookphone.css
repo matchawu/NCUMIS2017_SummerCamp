@@ -1,0 +1,51 @@
+h4{
+		font-family: '微軟正黑體''新細明體';
+		line-height: 30px;
+        /*font-weight: bold;*/
+	}
+
+h3{
+    font-weight: bold;
+}
+
+h1{
+    font-weight: bold;
+    text-align: center;
+}
+
+p{
+    font-weight: bold;
+    text-align: center;
+}
+
+h5{
+    font-weight: bold;
+    text-align: center;
+}
+
+.bg-1 {
+    background-color: #e6e6e6; /* Green */
+    color: #2f2f2f;
+}
+.bg-2 {
+    background-color:  #0d0d0d; /* darkGreen */
+    color: #ccc;
+}
+.bg-3 {
+    background-color: #718f85; /* White */
+    color: #2f2f2f;
+}
+.bg-4 {
+    background-color: #e6e6e6; /* Black Gray */
+    color: #2f2f2f;
+}
+.bg-5 {
+    background-color: #86acac; /* Green */
+    color: #555;
+}
+
+.container-fluidd {
+     padding-top: 100px;
+     padding-bottom: 100px;
+     height: 100%; width: 100%;border:none;
+ }
